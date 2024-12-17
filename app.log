@@ -1,0 +1,343 @@
+2024-12-13 17:59:51,088 - app.main - ERROR - Classification failed: 'AsyncAnthropic' object has no attribute 'messages'
+2024-12-13 17:59:51,088 - app.main - ERROR - Failed to process URL https://www.caixinglobal.com/2024-12-13/chinese-fugitives-forfeit-luxury-london-homes-amid-fraud-probe-102267808.html: 
+2024-12-13 18:00:02,615 - app.main - ERROR - Classification failed: 'AsyncAnthropic' object has no attribute 'messages'
+2024-12-13 18:00:02,616 - app.main - ERROR - Failed to process URL https://www.caixinglobal.com/2024-12-13/chinese-fugitives-forfeit-luxury-london-homes-amid-fraud-probe-102267808.html: 
+2024-12-13 18:01:37,874 - app.main - ERROR - Classification failed: 'AsyncAnthropic' object has no attribute 'create_message'
+2024-12-13 18:01:37,874 - app.main - ERROR - Failed to process URL https://www.caixinglobal.com/2024-12-13/chinese-fugitives-forfeit-luxury-london-homes-amid-fraud-probe-102267808.html: 
+2024-12-13 18:03:45,938 - app.main - ERROR - Classification failed: 'AsyncAnthropic' object has no attribute 'messages'
+2024-12-13 18:03:45,938 - app.main - ERROR - Failed to process URL https://www.caixinglobal.com/2024-12-13/chinese-fugitives-forfeit-luxury-london-homes-amid-fraud-probe-102267808.html: 
+2024-12-13 18:06:29,304 - app.main - ERROR - Classification failed: 'Anthropic' object has no attribute 'messages'
+2024-12-13 18:06:29,304 - app.main - ERROR - Failed to process URL https://www.caixinglobal.com/2024-12-13/chinese-fugitives-forfeit-luxury-london-homes-amid-fraud-probe-102267808.html: 
+2024-12-13 18:06:31,496 - app.main - ERROR - Classification failed: 'Anthropic' object has no attribute 'messages'
+2024-12-13 18:06:31,496 - app.main - ERROR - Failed to process URL https://www.caixinglobal.com/2024-12-13/chinese-fugitives-forfeit-luxury-london-homes-amid-fraud-probe-102267808.html: 
+2024-12-13 18:06:40,654 - app.main - ERROR - Classification failed: 'Anthropic' object has no attribute 'messages'
+2024-12-13 18:06:40,655 - app.main - ERROR - Failed to process URL https://www.caixinglobal.com/2024-12-13/chinese-fugitives-forfeit-luxury-london-homes-amid-fraud-probe-102267808.html: 
+2024-12-13 18:06:44,636 - app.main - ERROR - Classification failed: 'Anthropic' object has no attribute 'messages'
+2024-12-13 18:06:44,636 - app.main - ERROR - Failed to process URL https://www.caixinglobal.com/2024-12-13/chinese-fugitives-forfeit-luxury-london-homes-amid-fraud-probe-102267808.html: 
+2024-12-13 18:08:47,658 - app.main - ERROR - Classification failed: 'Anthropic' object has no attribute 'messages'
+2024-12-13 18:08:47,658 - app.main - ERROR - Failed to process URL https://www.caixinglobal.com/2024-12-13/chinese-fugitives-forfeit-luxury-london-homes-amid-fraud-probe-102267808.html: 
+2024-12-13 18:08:49,840 - app.main - ERROR - Classification failed: 'Anthropic' object has no attribute 'messages'
+2024-12-13 18:08:49,841 - app.main - ERROR - Failed to process URL https://www.caixinglobal.com/2024-12-13/chinese-fugitives-forfeit-luxury-london-homes-amid-fraud-probe-102267808.html: 
+2024-12-13 18:09:52,654 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-13 18:09:52,656 - app.main - ERROR - Classification failed: 'list' object has no attribute 'split'
+2024-12-13 18:09:52,656 - app.main - ERROR - Failed to process URL https://www.caixinglobal.com/2024-12-13/chinese-fugitives-forfeit-luxury-london-homes-amid-fraud-probe-102267808.html: 
+2024-12-13 18:10:00,578 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-13 18:10:00,578 - app.main - ERROR - Classification failed: 'list' object has no attribute 'split'
+2024-12-13 18:10:00,579 - app.main - ERROR - Failed to process URL https://www.caixinglobal.com/2024-12-13/chinese-fugitives-forfeit-luxury-london-homes-amid-fraud-probe-102267808.html: 
+2024-12-13 18:12:17,270 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-13 18:12:17,284 - app.main - ERROR - Classification failed: 'TextBlock' object is not subscriptable
+2024-12-13 18:12:17,285 - app.main - ERROR - Failed to process URL https://www.caixinglobal.com/2024-12-13/chinese-fugitives-forfeit-luxury-london-homes-amid-fraud-probe-102267808.html: 
+2024-12-13 18:12:31,909 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-13 18:12:31,911 - app.main - ERROR - Classification failed: 'TextBlock' object is not subscriptable
+2024-12-13 18:12:31,911 - app.main - ERROR - Failed to process URL https://www.caixinglobal.com/2024-12-13/chinese-fugitives-forfeit-luxury-london-homes-amid-fraud-probe-102267808.html: 
+2024-12-13 18:13:11,329 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-13 18:13:11,338 - app.main - ERROR - Classification failed: name 'TextBlock' is not defined
+2024-12-13 18:13:11,339 - app.main - ERROR - Failed to process URL https://www.caixinglobal.com/2024-12-13/chinese-fugitives-forfeit-luxury-london-homes-amid-fraud-probe-102267808.html: 
+2024-12-13 18:14:02,275 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-13 18:14:02,284 - app.main - ERROR - Classification failed: 'list' object has no attribute 'split'
+2024-12-13 18:14:02,285 - app.main - ERROR - Failed to process URL https://www.caixinglobal.com/2024-12-13/chinese-fugitives-forfeit-luxury-london-homes-amid-fraud-probe-102267808.html: 
+2024-12-13 18:14:45,840 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-13 18:14:54,342 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-13 18:14:54,343 - app.main - ERROR - Failed to process URL https://www.caixinglobal.com/2024-12-13/chinese-fugitives-forfeit-luxury-london-homes-amid-fraud-probe-102267808.html: 2 validation errors for AnalysisResponse
+elon_analysis
+  Input should be a valid string [type=string_type, input_value=[TextBlock(text='Analyzin...threats.', type='text')], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+jobs_analysis
+  Field required [type=missing, input_value={'title': 'Chinese Fugiti...hreats.', type='text')]}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2024-12-16 11:04:14,445 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 11:04:24,033 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 11:04:24,035 - app.main - ERROR - Failed to process URL https://yespunjab.com/hsbc-india-now-offers-prive-credit-card-for-uhnwi-hnwi-clients/: 2 validation errors for AnalysisResponse
+elon_analysis
+  Input should be a valid string [type=string_type, input_value=[TextBlock(text="Here is ... market.", type='text')], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+jobs_analysis
+  Field required [type=missing, input_value={'title': 'HSBC India now...market.", type='text')]}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2024-12-16 11:04:40,038 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 11:04:50,614 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 11:04:50,617 - app.main - ERROR - Failed to process URL https://yespunjab.com/hsbc-india-now-offers-prive-credit-card-for-uhnwi-hnwi-clients/: 2 validation errors for AnalysisResponse
+elon_analysis
+  Field required [type=missing, input_value={'title': 'HSBC India now...tomers.", type='text')]}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+jobs_analysis
+  Input should be a valid string [type=string_type, input_value=[TextBlock(text="Market p...stomers.", type='text')], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+2024-12-16 12:04:00,273 - app.main - ERROR - Service initialization failed: name 'firebase_admin' is not defined
+2024-12-16 12:05:59,104 - app.main - ERROR - Service initialization failed: name 'firebase_admin' is not defined
+2024-12-16 12:06:15,573 - app.main - ERROR - Service initialization failed: name 'initialize_app' is not defined
+2024-12-16 12:08:20,608 - app.main - ERROR - Analysis failed for https://yespunjab.com/hsbc-india-now-offers-prive-credit-card-for-uhnwi-hnwi-clients/: 
+2024-12-16 12:08:20,608 - app.main - ERROR - URL analysis failed: 
+2024-12-16 12:08:29,584 - app.main - ERROR - Analysis failed for https://yespunjab.com/hsbc-india-now-offers-prive-credit-card-for-uhnwi-hnwi-clients/: 
+2024-12-16 12:08:29,584 - app.main - ERROR - URL analysis failed: 
+2024-12-16 12:08:32,953 - app.main - ERROR - Analysis failed for https://yespunjab.com/hsbc-india-now-offers-prive-credit-card-for-uhnwi-hnwi-clients/: 
+2024-12-16 12:08:32,953 - app.main - ERROR - URL analysis failed: 
+2024-12-16 12:11:23,175 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 12:11:56,402 - app.main - INFO - Firebase initialized successfully
+2024-12-16 12:11:56,403 - app.main - INFO - Service manager initialized successfully
+2024-12-16 12:12:02,318 - app.main - ERROR - Failed to process URL https://yespunjab.com/hsbc-india-now-offers-prive-credit-card-for-uhnwi-hnwi-clients/: Content extraction failed: module 'asyncio' has no attribute 'timeout'
+2024-12-16 12:12:02,318 - app.main - INFO - Analysis completed in 3.40s
+2024-12-16 12:14:32,047 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 12:15:44,318 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 12:15:52,248 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 12:16:01,103 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 12:16:01,103 - app.main - INFO - Analysis completed in 18.21s
+2024-12-16 12:16:01,104 - app.main - ERROR - Failed to store analysis: 'AsyncAnthropic' object has no attribute 'embeddings'
+2024-12-16 13:03:02,356 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 13:17:18,959 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 13:17:44,681 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 13:18:15,102 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 13:22:59,277 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 13:23:08,163 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 13:23:16,765 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 13:23:16,768 - app.main - INFO - Analysis completed in 19.84s
+2024-12-16 13:24:08,039 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 13:24:15,953 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 13:24:23,675 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 13:24:23,680 - app.main - INFO - Analysis completed in 17.91s
+2024-12-16 13:26:56,068 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 13:27:31,691 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 13:27:42,807 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 13:27:53,175 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 13:27:54,685 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 13:28:03,324 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 13:28:11,971 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 13:28:11,974 - app.main - INFO - Analysis completed in 42.70s
+2024-12-16 14:09:54,401 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:10:04,508 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:10:15,769 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:10:15,794 - app.main - INFO - Analysis completed in 23.13s
+2024-12-16 14:12:24,541 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 14:12:29,659 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 14:12:39,690 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 14:12:46,618 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 14:14:25,072 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 14:14:33,176 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:14:43,346 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:14:53,384 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:14:53,385 - app.main - INFO - Analysis completed in 22.35s
+2024-12-16 14:15:19,982 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 14:15:27,707 - app.main - INFO - Getting classification for content: It is a significant step towards enhancing India’s semiconductor manufacturing capabilities. The semiconductor industry in India is still in a nascent stage, with various local and multinational companies intending to tap its vast potential.
+
+The state-of-the-art facility was inaugurated by Union Minister CR Patil and Gujarat’s Home Minister Harsh Sanghavi.
+
+The plant, with an initial area of 30,000-square-foot facility, will provide essential assembly, testing, and packaging services for semiconductor components, supporting industries such as automotive, consumer electronics, and industrial applications, the company said in a statement Sunday.
+
+In alignment with the government’s Atmanirbhar Bharat vision, this initiative aims to reduce India’s dependency on imported semiconductors while strengthening the country’s position in the global semiconductor supply chain.
+
+With a USD 100 million investment, the plant, once at full capacity, will produce up to 3 million semiconductor chips daily. The company said it is also in advanced discussions to onboard a strategic technology partner to further enhance its capabilities and drive innovation, the company statement added.
+
+Engineered for rapid scaling, this facility is poised to meet the growing demand for semiconductors in both domestic and global markets, positioning India as a key player in the global semiconductor ecosystem.
+
+Established in July 2023, Suchi Semicon was founded by Ashok Mehta and Shetal Mehta. The company’s entry into the semiconductor manufacturing space is noteworthy, particularly given its origins in the textile industry.
+
+Union Jal Shakti Minister CR Patil said, “India is on a transformative path towards becoming a global technology hub, and initiatives like the Suchi Semicon OSAT plant are key to realizing this vision. With the government’s focus on increasing semiconductor manufacturing within India, such plants will play a crucial role in reducing dependency on imports, creating jobs, and strengthening our domestic industry. I congratulate the Suchi Semicon team for their vision and efforts in making this dream a reality, contributing to both Gujarat’s and India’s growth as leaders in technology and innovation.”
+
+Gujarat’s Home Minister Harsh Sanghavi said, “We fully support Suchi Semicon in this mission and are confident that this facility will not only contribute to the region’s economic growth but also establish Gujarat as a global leader in semiconductor manufacturing. We look forward to more such initiatives that bring innovation and create high-skilled jobs for our youth.”
+
+Speaking on the occasion, Ashok Mehta, Chairman of Suchi Semicon, said, “Our journey into the semiconductor industry began with a humble background in textiles, but seeing the growing gap in India’s semiconductor capabilities inspired us to take this leap. India has long been dependent on imports for its semiconductor needs, and this gap presented a clear opportunity for us to make a meaningful contribution. Starting with 3,00,000 pieces a day, we are laying the foundation for long-term growth, including plans to scale production and explore semiconductor design in the future. Our goal is not just to manufacture chips but also to drive innovation in the Indian semiconductor ecosystem. This facility will help us reduce supply chain delays, lower logistical costs, and support the development of a self-sustaining semiconductor industry in India.” (ANI)
+
+This report is auto-generated from ANI news service. ThePrint holds no responsibility for its content.
+2024-12-16 14:15:29,959 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:15:40,791 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:15:51,538 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:15:51,540 - app.main - INFO - Analysis completed in 24.13s
+2024-12-16 14:15:57,247 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 14:17:56,626 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 14:18:44,273 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 14:18:49,956 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 14:18:59,572 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 14:20:11,774 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 14:20:25,186 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 14:22:43,093 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 14:22:52,435 - app.main - ERROR - Analysis failed for https://theprint.in/economy/suchi-semicon-inaugurates-outsourced-semiconductor-assembly-and-testing-plant-in-surat/2404417/: 'MarketAnalyzer' object has no attribute '_extract_content'
+2024-12-16 14:22:52,436 - app.main - ERROR - Failed to process URL https://theprint.in/economy/suchi-semicon-inaugurates-outsourced-semiconductor-assembly-and-testing-plant-in-surat/2404417/: 
+2024-12-16 14:22:52,436 - app.main - INFO - Analysis completed in 0.00s
+2024-12-16 14:22:54,736 - app.main - ERROR - Analysis failed for https://theprint.in/economy/suchi-semicon-inaugurates-outsourced-semiconductor-assembly-and-testing-plant-in-surat/2404417/: 'MarketAnalyzer' object has no attribute '_extract_content'
+2024-12-16 14:22:54,737 - app.main - ERROR - Failed to process URL https://theprint.in/economy/suchi-semicon-inaugurates-outsourced-semiconductor-assembly-and-testing-plant-in-surat/2404417/: 
+2024-12-16 14:22:54,737 - app.main - INFO - Analysis completed in 0.00s
+2024-12-16 14:23:12,182 - app.main - ERROR - Analysis failed for https://theprint.in/economy/suchi-semicon-inaugurates-outsourced-semiconductor-assembly-and-testing-plant-in-surat/2404417/: 'MarketAnalyzer' object has no attribute '_extract_content'
+2024-12-16 14:23:12,182 - app.main - ERROR - Failed to process URL https://theprint.in/economy/suchi-semicon-inaugurates-outsourced-semiconductor-assembly-and-testing-plant-in-surat/2404417/: 
+2024-12-16 14:23:12,182 - app.main - INFO - Analysis completed in 0.00s
+2024-12-16 14:25:12,166 - app.main - ERROR - Error during cleanup: module 'pinecone' has no attribute 'deinit'
+2024-12-16 14:25:18,470 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:25:18,478 - app.services.classification - ERROR - Classification failed: 'list' object has no attribute 'strip'
+2024-12-16 14:25:29,606 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:25:36,495 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:25:36,497 - app.services.classification - ERROR - Classification failed: 'list' object has no attribute 'strip'
+2024-12-16 14:25:37,490 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:25:37,491 - app.main - INFO - Analysis completed in 20.68s
+2024-12-16 14:25:49,129 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:26:00,504 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:26:00,529 - app.main - INFO - Analysis completed in 26.50s
+2024-12-16 14:30:37,837 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:30:37,840 - app.services.classification - ERROR - Classification failed: 'list' object has no attribute 'strip'
+2024-12-16 14:30:48,383 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:30:59,816 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:30:59,825 - app.main - INFO - Analysis completed in 25.87s
+2024-12-16 14:34:14,447 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:34:14,450 - app.services.classification - ERROR - Classification failed: 'list' object has no attribute 'strip'
+2024-12-16 14:34:25,287 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:34:35,104 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:34:35,107 - app.main - INFO - Analysis completed in 23.86s
+2024-12-16 14:40:23,580 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:40:23,588 - app.services.classification - ERROR - Classification failed: 'list' object has no attribute 'strip'
+2024-12-16 14:40:35,325 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:40:45,890 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:40:45,892 - app.main - INFO - Analysis completed in 26.74s
+2024-12-16 14:40:53,272 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:40:53,274 - app.services.classification - ERROR - Classification failed: 'list' object has no attribute 'strip'
+2024-12-16 14:40:58,736 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:40:58,736 - app.services.classification - ERROR - Classification failed: 'list' object has no attribute 'strip'
+2024-12-16 14:41:03,922 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:41:10,988 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:41:14,674 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:41:14,675 - app.main - INFO - Analysis completed in 25.63s
+2024-12-16 14:41:21,125 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:41:21,129 - app.main - INFO - Analysis completed in 26.50s
+2024-12-16 14:45:43,481 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:45:43,484 - app.services.classification - ERROR - Classification failed: 'list' object has no attribute 'strip'
+2024-12-16 14:45:53,016 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:45:53,018 - app.services.anthropic - ERROR - Error formatting response: 'list' object has no attribute 'split'
+2024-12-16 14:45:53,019 - app.main - ERROR - Analysis failed for https://www.prnewswire.com/apac/news-releases/high-net-worth-investors-are-embracing-tech-to-grow-their-wealth-moomoo-singapore-survey-302322147.html: 2 validation errors for AnalysisResponse
+elon_analysis
+  Input should be a valid string [type=string_type, input_value=[TextBlock(text="Here's a...nciples.", type='text')], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+jobs_analysis
+  Field required [type=missing, input_value={'title': 'High-net-worth...ciples.", type='text')]}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2024-12-16 14:45:53,019 - app.main - ERROR - Failed to process URL https://www.prnewswire.com/apac/news-releases/high-net-worth-investors-are-embracing-tech-to-grow-their-wealth-moomoo-singapore-survey-302322147.html: 
+2024-12-16 14:45:53,019 - app.main - INFO - Analysis completed in 13.02s
+2024-12-16 14:46:11,348 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:46:11,349 - app.services.classification - ERROR - Classification failed: 'list' object has no attribute 'strip'
+2024-12-16 14:46:21,015 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:46:21,015 - app.services.anthropic - ERROR - Error formatting response: 'list' object has no attribute 'split'
+2024-12-16 14:46:21,015 - app.services.anthropic - INFO - Getting jobs analysis for content
+2024-12-16 14:46:33,055 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:46:33,056 - app.services.anthropic - ERROR - Error formatting response: 'list' object has no attribute 'split'
+2024-12-16 14:46:33,057 - app.main - ERROR - Analysis failed for https://www.prnewswire.com/apac/news-releases/high-net-worth-investors-are-embracing-tech-to-grow-their-wealth-moomoo-singapore-survey-302322147.html: 2 validation errors for AnalysisResponse
+elon_analysis
+  Input should be a valid string [type=string_type, input_value=[TextBlock(text="Here's a...agement.", type='text')], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+jobs_analysis
+  Input should be a valid string [type=string_type, input_value=[TextBlock(text='#WealthT...ovation"', type='text')], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+2024-12-16 14:46:33,057 - app.main - ERROR - Failed to process URL https://www.prnewswire.com/apac/news-releases/high-net-worth-investors-are-embracing-tech-to-grow-their-wealth-moomoo-singapore-survey-302322147.html: 
+2024-12-16 14:46:33,057 - app.main - INFO - Analysis completed in 24.82s
+2024-12-16 14:48:55,641 - app.main - INFO - Processing URL: https://www.prnewswire.com/apac/news-releases/high-net-worth-investors-are-embracing-tech-to-grow-their-wealth-moomoo-singapore-survey-302322147.html
+2024-12-16 14:48:55,641 - app.main - INFO - Extracting content from: https://www.prnewswire.com/apac/news-releases/high-net-worth-investors-are-embracing-tech-to-grow-their-wealth-moomoo-singapore-survey-302322147.html
+2024-12-16 14:48:55,904 - app.main - INFO - Getting classification
+2024-12-16 14:48:59,026 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:48:59,593 - app.services.classification - ERROR - Classification failed: 'list' object has no attribute 'strip'
+2024-12-16 14:48:59,594 - app.main - INFO - Performing strategic analysis
+2024-12-16 14:49:08,810 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:49:08,812 - app.services.anthropic - ERROR - Error formatting response: 'list' object has no attribute 'split'
+2024-12-16 14:49:08,812 - app.main - INFO - Performing marketing analysis
+2024-12-16 14:49:08,812 - app.services.anthropic - INFO - Getting jobs analysis for content
+2024-12-16 14:49:20,073 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:49:20,073 - app.services.anthropic - ERROR - Error formatting response: 'list' object has no attribute 'split'
+2024-12-16 14:49:20,077 - app.main - ERROR - Analysis failed for https://www.prnewswire.com/apac/news-releases/high-net-worth-investors-are-embracing-tech-to-grow-their-wealth-moomoo-singapore-survey-302322147.html: 2 validation errors for AnalysisResponse
+elon_analysis
+  Input should be a valid string [type=string_type, input_value=[TextBlock(text="Here's a...cisions.", type='text')], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+jobs_analysis
+  Input should be a valid string [type=string_type, input_value=[TextBlock(text='#WealthT...ovation"', type='text')], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+Traceback (most recent call last):
+  File "/Users/skyg/Desktop/Code/unwinded/unback/app/main.py", line 134, in analyze_content
+    result = AnalysisResponse(
+  File "/Users/skyg/Desktop/Code/unwinded/unback/venv/lib/python3.9/site-packages/pydantic/main.py", line 164, in __init__
+    __pydantic_self__.__pydantic_validator__.validate_python(data, self_instance=__pydantic_self__)
+pydantic_core._pydantic_core.ValidationError: 2 validation errors for AnalysisResponse
+elon_analysis
+  Input should be a valid string [type=string_type, input_value=[TextBlock(text="Here's a...cisions.", type='text')], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+jobs_analysis
+  Input should be a valid string [type=string_type, input_value=[TextBlock(text='#WealthT...ovation"', type='text')], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+
+2024-12-16 14:49:20,077 - app.main - ERROR - Failed to process URL https://www.prnewswire.com/apac/news-releases/high-net-worth-investors-are-embracing-tech-to-grow-their-wealth-moomoo-singapore-survey-302322147.html: 
+2024-12-16 14:49:20,077 - app.main - INFO - Analysis completed in 24.44s
+2024-12-16 14:53:25,386 - app.main - INFO - Processing URL: https://www.prnewswire.com/apac/news-releases/high-net-worth-investors-are-embracing-tech-to-grow-their-wealth-moomoo-singapore-survey-302322147.html
+2024-12-16 14:53:25,386 - app.main - INFO - Extracting content from: https://www.prnewswire.com/apac/news-releases/high-net-worth-investors-are-embracing-tech-to-grow-their-wealth-moomoo-singapore-survey-302322147.html
+2024-12-16 14:53:25,617 - app.main - INFO - Getting classification
+2024-12-16 14:53:29,321 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:53:29,323 - app.services.classification - ERROR - Classification failed: 'list' object has no attribute 'strip'
+2024-12-16 14:53:29,323 - app.main - INFO - Performing strategic analysis
+2024-12-16 14:53:39,986 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:53:39,987 - app.main - INFO - Performing marketing analysis
+2024-12-16 14:53:39,987 - app.services.anthropic - INFO - Getting jobs analysis for content
+2024-12-16 14:53:51,848 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:53:51,849 - app.main - INFO - Analysis complete for https://www.prnewswire.com/apac/news-releases/high-net-worth-investors-are-embracing-tech-to-grow-their-wealth-moomoo-singapore-survey-302322147.html
+2024-12-16 14:53:51,849 - app.main - INFO - Analysis completed in 26.46s
+2024-12-16 14:55:17,968 - app.main - INFO - Processing URL: https://www.prnewswire.com/apac/news-releases/high-net-worth-investors-are-embracing-tech-to-grow-their-wealth-moomoo-singapore-survey-302322147.html
+2024-12-16 14:55:17,969 - app.main - INFO - Extracting content from: https://www.prnewswire.com/apac/news-releases/high-net-worth-investors-are-embracing-tech-to-grow-their-wealth-moomoo-singapore-survey-302322147.html
+2024-12-16 14:55:18,184 - app.main - INFO - Getting classification
+2024-12-16 14:55:22,884 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:55:22,886 - app.services.classification - INFO - Final classification - Industry: Unknown, Product: Unknown
+2024-12-16 14:55:22,886 - app.main - INFO - Performing strategic analysis
+2024-12-16 14:55:31,998 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:55:31,999 - app.main - INFO - Performing marketing analysis
+2024-12-16 14:55:31,999 - app.services.anthropic - INFO - Getting jobs analysis for content
+2024-12-16 14:55:42,756 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:55:42,759 - app.main - INFO - Analysis complete for https://www.prnewswire.com/apac/news-releases/high-net-worth-investors-are-embracing-tech-to-grow-their-wealth-moomoo-singapore-survey-302322147.html
+2024-12-16 14:55:42,759 - app.main - INFO - Analysis completed in 24.79s
+2024-12-16 14:56:10,432 - app.main - INFO - Processing URL: https://www.ahmedabadmirror.com/gujs-1st-semiconductor-plant-opened-in-surat/81881349.html
+2024-12-16 14:56:10,433 - app.main - INFO - Extracting content from: https://www.ahmedabadmirror.com/gujs-1st-semiconductor-plant-opened-in-surat/81881349.html
+2024-12-16 14:56:13,867 - app.main - INFO - Getting classification
+2024-12-16 14:56:16,239 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:56:16,242 - app.services.classification - INFO - Final classification - Industry: Semiconductors, Product: Semiconductor Chips
+2024-12-16 14:56:16,242 - app.main - INFO - Performing strategic analysis
+2024-12-16 14:56:26,973 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:56:26,974 - app.main - INFO - Performing marketing analysis
+2024-12-16 14:56:26,974 - app.services.anthropic - INFO - Getting jobs analysis for content
+2024-12-16 14:56:37,741 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:56:37,742 - app.main - INFO - Analysis complete for https://www.ahmedabadmirror.com/gujs-1st-semiconductor-plant-opened-in-surat/81881349.html
+2024-12-16 14:56:37,742 - app.main - INFO - Analysis completed in 27.31s
+2024-12-16 14:57:06,325 - app.main - INFO - Processing URL: https://www.ahmedabadmirror.com/gujs-1st-semiconductor-plant-opened-in-surat/81881349.html
+2024-12-16 14:57:06,325 - app.main - INFO - Extracting content from: https://www.ahmedabadmirror.com/gujs-1st-semiconductor-plant-opened-in-surat/81881349.html
+2024-12-16 14:57:07,304 - app.main - INFO - Getting classification
+2024-12-16 14:57:09,824 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:57:09,825 - app.services.classification - INFO - Final classification - Industry: Semiconductors, Product: Semiconductor chips
+2024-12-16 14:57:09,825 - app.main - INFO - Performing strategic analysis
+2024-12-16 14:57:21,006 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:57:21,042 - app.main - ERROR - Analysis failed for https://www.ahmedabadmirror.com/gujs-1st-semiconductor-plant-opened-in-surat/81881349.html: 1 validation error for AnalysisResponse
+jobs_analysis
+  Field required [type=missing, input_value={'title': 'Guj’s 1st se...anning are maintained."}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+Traceback (most recent call last):
+  File "/Users/skyg/Desktop/Code/unwinded/unback/app/main.py", line 134, in analyze_content
+    result = AnalysisResponse(
+  File "/Users/skyg/Desktop/Code/unwinded/unback/venv/lib/python3.9/site-packages/pydantic/main.py", line 164, in __init__
+    __pydantic_self__.__pydantic_validator__.validate_python(data, self_instance=__pydantic_self__)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for AnalysisResponse
+jobs_analysis
+  Field required [type=missing, input_value={'title': 'Guj’s 1st se...anning are maintained."}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+
+2024-12-16 14:57:21,042 - app.main - ERROR - Failed to process URL https://www.ahmedabadmirror.com/gujs-1st-semiconductor-plant-opened-in-surat/81881349.html: 
+2024-12-16 14:57:21,042 - app.main - INFO - Analysis completed in 14.72s
+2024-12-16 14:57:25,688 - app.main - INFO - Processing URL: https://www.ahmedabadmirror.com/gujs-1st-semiconductor-plant-opened-in-surat/81881349.html
+2024-12-16 14:57:25,688 - app.main - INFO - Extracting content from: https://www.ahmedabadmirror.com/gujs-1st-semiconductor-plant-opened-in-surat/81881349.html
+2024-12-16 14:57:28,901 - app.main - INFO - Getting classification
+2024-12-16 14:57:31,988 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:57:31,989 - app.services.classification - INFO - Final classification - Industry: Semiconductors, Product: Semiconductor chips
+2024-12-16 14:57:31,989 - app.main - INFO - Performing marketing analysis
+2024-12-16 14:57:31,989 - app.services.anthropic - INFO - Getting jobs analysis for content
+2024-12-16 14:57:43,417 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-12-16 14:57:43,418 - app.main - ERROR - Analysis failed for https://www.ahmedabadmirror.com/gujs-1st-semiconductor-plant-opened-in-surat/81881349.html: 1 validation error for AnalysisResponse
+elon_analysis
+  Field required [type=missing, input_value={'title': 'Guj’s 1st se...India #TechInnovation"'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+Traceback (most recent call last):
+  File "/Users/skyg/Desktop/Code/unwinded/unback/app/main.py", line 134, in analyze_content
+    result = AnalysisResponse(
+  File "/Users/skyg/Desktop/Code/unwinded/unback/venv/lib/python3.9/site-packages/pydantic/main.py", line 164, in __init__
+    __pydantic_self__.__pydantic_validator__.validate_python(data, self_instance=__pydantic_self__)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for AnalysisResponse
+elon_analysis
+  Field required [type=missing, input_value={'title': 'Guj’s 1st se...India #TechInnovation"'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+
+2024-12-16 14:57:43,418 - app.main - ERROR - Failed to process URL https://www.ahmedabadmirror.com/gujs-1st-semiconductor-plant-opened-in-surat/81881349.html: 
+2024-12-16 14:57:43,418 - app.main - INFO - Analysis completed in 17.73s
