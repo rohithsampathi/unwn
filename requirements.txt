@@ -16,3 +16,4 @@ nltk
 requests
 feedparser
 tldextract
+firebase-admin
